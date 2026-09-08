@@ -84,7 +84,8 @@ header {
 }
 
 .logo-block img.badge {
-  height: 96px;
+  height: 78px;
+  width: auto;
   display: block;
 }
 
@@ -273,7 +274,8 @@ nav a.current { text-decoration: underline; opacity: 1; }
     padding: 10px 16px;
   }
   .logo-block img.badge {
-    height: 52px;
+    height: 44px;
+    width: auto;
   }
   .header-right {
     gap: 10px;
